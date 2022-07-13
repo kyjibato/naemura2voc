@@ -61,7 +61,7 @@ for s in ano_list:
         ano_dic(s)
 
 
-new_path = 'xml'
+new_path = S_DIR
 if not os.path.exists(new_path):
     os.mkdir(new_path)
 
