@@ -4,5 +4,3 @@ This Python script converts [bird detection annotation data](http://bird.nae-lab
 I am not affiliated with the Naemura Lab.
 
 Copyright (c) 2022 m_f
-Released under the MIT license
-https://opensource.org/licenses/mit-license.php
